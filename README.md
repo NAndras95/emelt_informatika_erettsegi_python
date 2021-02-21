@@ -3,6 +3,6 @@
 Ezek a példák pythonnal vannak megoldva. 
 Van ahol 1-1 feladat hiányzik még.
 
-A feladatlapokat az https://www.oktatas.hu -n lehet letölteni.
+A feladatlapokat a https://www.oktatas.hu -n lehet letölteni.
 
 A példákat IDLE (python 3.8-al) használatával hoztam létre Windows 10-en.
