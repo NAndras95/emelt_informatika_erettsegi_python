@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 print("1. feladat")
 # file beolvasas
 adatok = []
@@ -123,8 +121,12 @@ def szelero(meres):
 
 #print(szelErosseg) # teszteles
 
+<<<<<<< Updated upstream
 for egyTelepules, szelMeres in szelErosseg.items():
     with open(egyTelepules+".txt", "w", encoding="utf-8") as telepules:
         telepules.write(f"{egyTelepules}\n")
         for egyMeres in szelMeres:
             telepules.write(f"{egyMeres[0]} {szelero(egyMeres[1])}\n")
+=======
+print("minimum: "+str(mini)+"\nmaximum: "+str(maxi))
+>>>>>>> Stashed changes
